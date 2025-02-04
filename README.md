@@ -2,13 +2,16 @@
 Imágenes con estilos css
 
 Pagina principal: https://mauricioesparron.github.io/EfectosImagenes/
+---------
 
-animacion1: https://mauricioesparron.github.io/EfectosImagenes/animacion1.html
 
-animacion2: https://mauricioesparron.github.io/EfectosImagenes/animacion2.html
 
-example1: https://mauricioesparron.github.io/EfectosImagenes/example1.html
+-Animacion1: https://mauricioesparron.github.io/EfectosImagenes/animacion1.html
 
-example2: https://mauricioesparron.github.io/EfectosImagenes/example2.html
+-Animacion2: https://mauricioesparron.github.io/EfectosImagenes/animacion2.html
 
-example3: https://mauricioesparron.github.io/EfectosImagenes/example3.html
+-Example1: https://mauricioesparron.github.io/EfectosImagenes/example1.html
+
+-Example2: https://mauricioesparron.github.io/EfectosImagenes/example2.html
+
+-Example3: https://mauricioesparron.github.io/EfectosImagenes/example3.html
